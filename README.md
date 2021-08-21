@@ -1,7 +1,7 @@
-# Hi, I'm Minto 
+# Hi, I'm Toby 
 
 ```javascript
-const Minto = {
+const MintoD = {
     name: "Toby",
     age: 14,
     country: "Vietnam",
