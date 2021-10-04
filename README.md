@@ -27,7 +27,7 @@ const MintoD = {
 </a></p>
 
 <p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-heytoby@protonmail.com-20232a?logoColor=8a90c7&logo=Protonmail"/>
+  <img src="https://img.shields.io/badge/-tobythedev7@outlook.com-20232a?logoColor=8a90c7&logo=microsoftoutlook"/>
 </a></p>
 
 # My status :bar_chart:
