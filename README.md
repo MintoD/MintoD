@@ -7,7 +7,7 @@ const MintoD = {
     country: "Vietnam",
     jobs: "Developer",
     languages: ["JavaScript", "PHP", "TypeScript"],
-    tech: ["ReactJS", "React Native", "Node"],
+    tech: ["ReactJS", "React Native", "Node", "Deno"],
 };
 ```
 
