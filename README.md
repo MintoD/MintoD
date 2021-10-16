@@ -32,8 +32,8 @@ const MintoD = {
 
 # My status :bar_chart:
 
-![MintoD's github stats](https://github-readme-stats.vercel.app/api?username=MintoD&show_icons=true&theme=react)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintoD&theme=react&layout=compact)](https://github.com/MintoD)
-<a href="https://frontend.code-inspector.com/public/user/github/MintoD">
-   <img src="https://code-inspector.com/public/badge/user/github/MintoD?style=dark" alt="code inspector badge" />
-</a>  
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MintoD&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MintoD&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MintoD&theme=dracula" />
+</p>
