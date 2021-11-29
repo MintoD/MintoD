@@ -7,7 +7,7 @@ const MintoD = {
     country: "Vietnam",
     jobs: "Developer",
     languages: ["JavaScript", "PHP", "TypeScript"],
-    tech: ["ReactJS", "React Native", "Node", "Deno"],
+    tech: ["React", "NextJS", "Node", "Deno"],
 };
 ```
 
@@ -17,8 +17,9 @@ const MintoD = {
   <img src="https://img.shields.io/badge/-PHP-20232a?logoColor=8993be&logo=PHP"/>
 </a></p>
 <p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-ReactJS-20232a?logoColor=61DBFB&logo=React"/>
-  <img src="https://img.shields.io/badge/-NodeJS-20232a?logoColor=41B883&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-React-20232a?logoColor=61DBFB&logo=React"/>
+  <img src="https://img.shields.io/badge/-Node.js-20232a?logoColor=41B883&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-Next.js-20232a?logoColor=000000&logo=Next.js"/>
 </a></p><p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-Ubuntu-20232a?logoColor=8a90c7&logo=Ubuntu"/>
   <img src="https://img.shields.io/badge/-Git-20232a?logoColor=8a90c7&logo=Git"/>
