@@ -11,26 +11,6 @@ const MintoD = {
 };
 ```
 
-<p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-JavaScript-20232a?logoColor=F0DB4F&logo=JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-20232a?logoColor=007acc&logo=TypeScript"/>
-  <img src="https://img.shields.io/badge/-PHP-20232a?logoColor=8993be&logo=PHP"/>
-</a></p>
-<p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-React-20232a?logoColor=61DBFB&logo=React"/>
-  <img src="https://img.shields.io/badge/-Node.js-20232a?logoColor=41B883&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Next.js-20232a?logoColor=000000&logo=Next.js"/>
-</a></p><p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-Ubuntu-20232a?logoColor=8a90c7&logo=Ubuntu"/>
-  <img src="https://img.shields.io/badge/-Git-20232a?logoColor=8a90c7&logo=Git"/>
-  <img src="https://img.shields.io/badge/-VSCode-20232a?logoColor=8a90c7&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/-PhpStorm-20232a?logoColor=8a90c7&logo=PhpStorm"/>
-</a></p>
-
-<p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-tobythedev7@outlook.com-20232a?logoColor=8a90c7&logo=microsoftoutlook"/>
-</a></p>
-
 # My status :bar_chart:
 
 <p align="center">
